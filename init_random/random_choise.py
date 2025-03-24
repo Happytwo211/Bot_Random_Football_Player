@@ -7,5 +7,5 @@ def random_choise(player_name):
     # print(f"Случайная позиция: {random_key}")
     # print(f"Случайный игрок: {random_value}")
 
-    return f'Ты {random_key} футбольного клуба "Бавария Мюнхен" - {random_value}'
+    return f'ты {random_key} футбольного клуба "Бавария Мюнхен" - {random_value}'
     # print(f'Ты {random_key} футбольного клуба "Бавария Мюнхен" - {random_value}')
