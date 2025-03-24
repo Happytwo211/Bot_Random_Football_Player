@@ -27,7 +27,7 @@ def register_start(message):
     result = random_choise(player_name)
     print(result)
     bot.send_message(message.chat.id, f'{result}')
-
+1
 
 if __name__ == "__main__":
     bot.polling(none_stop=True)
